@@ -1,0 +1,7 @@
+E:\برامجC#\برامجC#\MyProjects\SerializeAnObject\SerializeAnObject\bin\Debug\SerializeAnObject.exe.config
+E:\برامجC#\برامجC#\MyProjects\SerializeAnObject\SerializeAnObject\bin\Debug\SerializeAnObject.exe
+E:\برامجC#\برامجC#\MyProjects\SerializeAnObject\SerializeAnObject\bin\Debug\SerializeAnObject.pdb
+E:\برامجC#\برامجC#\MyProjects\SerializeAnObject\SerializeAnObject\obj\Debug\SerializeAnObject.csprojResolveAssemblyReference.cache
+E:\برامجC#\برامجC#\MyProjects\SerializeAnObject\SerializeAnObject\obj\Debug\SerializeAnObject.csproj.CoreCompileInputs.cache
+E:\برامجC#\برامجC#\MyProjects\SerializeAnObject\SerializeAnObject\obj\Debug\SerializeAnObject.exe
+E:\برامجC#\برامجC#\MyProjects\SerializeAnObject\SerializeAnObject\obj\Debug\SerializeAnObject.pdb
